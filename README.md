@@ -4,7 +4,8 @@
 
 This is my first app i developed, on play store, soon.
 <img src="assets/Images/bigpic.png" height ="500">
-<img src="assets/Images/mainpage.png" width ="500">
+<img src="assets/Images/mainpage.png" width ="500" margin-left: auto;
+  margin-right: auto;>
  Blocs are coming to screen with some basic animations.  
 <img src="assets/Images/blocs.png" width ="500">
  All stages are self-generating randomly. Also every 10 stages the difficulty continues gradually increasing.
