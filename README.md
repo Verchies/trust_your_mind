@@ -1,8 +1,9 @@
 # trust_your_mind
 
-This is my first app i developed, on play store, soon.
+
 
 <img src="assets/Images/bigpic.png" height ="400">
+This is my first app i developed, on play store, soon.
 <img src="assets/Images/mainpage.png" width ="500">
  Blocs are coming to screen with some basic animations.  
 <img src="assets/Images/blocs.png" width ="500">
