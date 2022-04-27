@@ -2,13 +2,13 @@
 
 
 <div class="row">
-  <div class="column">
+
     <img src="assets/Images/mainpage.png" width ="300">
-  </div>
-  <div class="column">
+ 
+
    <img src="assets/Images/tutorial1.png" width ="300">
   </div>
-  <div class="column">
+ 
     <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
   </div>
 </div>
