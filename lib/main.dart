@@ -4,8 +4,8 @@ import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:trust_your_mind/Pages/mainPage.dart';
 
 void main() {
-  WidgetsFlutterBinding.ensureInitialized();
-  MobileAds.instance.initialize();
+ // WidgetsFlutterBinding.ensureInitialized();
+ // MobileAds.instance.initialize();
   runApp(const MyApp());
 }
 
