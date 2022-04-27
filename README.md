@@ -1,6 +1,5 @@
 # trust_your_mind
 
-
 This is my first app project i developed. On play store, soon. 
 
 <img src="assets/Images/bigpic.png" height ="400" >
