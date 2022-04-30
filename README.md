@@ -1,6 +1,7 @@
 # trust_your_mind
 
-This is my first app project i developed. On play store, soon. 
+This is my first app project i developed. On play store now. 
+https://play.google.com/store/apps/details?id=com.my.trust_your_mind
 
 <img src="assets/Images/bigpic.png" height ="400" >
 <img src="assets/Images/mainpage.png" width ="300">
