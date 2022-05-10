@@ -26,6 +26,8 @@ This is, how to play. You need to open all red boxes to access the next stage.
 
 <img src="assets/Images/tutorial3.png" width ="300">
 
+Kodlar istediğim kadar düzenli değil maalesef, bu app'i geliştirirken asıl amacım ortaya bir şeyler çıkarmaktı. Ondan dolayı kod düzenini biraz daha arka plana atmıştım. Ayrıca bu benim için pratik ve basit bir deneyim olması açısından geliştirdiğim bir uygulamadır.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
